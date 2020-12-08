@@ -1,0 +1,6 @@
+The code is executed in Tensorflow virtual environment.
+The corresponding requirements.txt is attached in the folder.
+
+The code can be run from,
+1. Ipynb file.
+2. Python Interpretor, all intermediate and final submission files will be created but visualizations will be lost.
